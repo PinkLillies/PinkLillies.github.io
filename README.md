@@ -22,11 +22,12 @@ The goal of this page is:
 
 ## Table of Contents
 
-1. [Hack the box - Wall](HTB/Wall.md)
+1. Hack the box
+    1. [Hack the box - Wall](HTB/Wall.md)
+    1. [Hack the box - Craft](HTB/Craft.md)
 
-2. [Hack the box - Craft](HTB/Craft.md)
-
-3. [Python - Basics](Python/Basics.md)
+1. Python
+    1. [Python - Basics](Python/Basics.md)
 
 
 
