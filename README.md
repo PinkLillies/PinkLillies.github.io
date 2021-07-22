@@ -10,24 +10,17 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
 
 <style>
     .div-1 {
-        background-color:blue;
-    }
-    
-    .div-2 {
-    	background-color: red;
-    }
-    
-    .div-3 {
-    	background-color: green;
-      text-align: center;
+        background-color:green;
+        color:white;
+        
     }
 </style>
-
 <body>
-    <div class="div-1"> I love HTML </div>
-    <div class="div-2"> I love CSS </div>
-    <div class="div-3"> I love JavaScript </div>
+    <div class="div-1"> I love HTML </div>  
 </body>
+
+
+
 
 
 
