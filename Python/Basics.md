@@ -85,7 +85,8 @@ class Bird:
  
  
 
-
-
 You can download Python [here](https://www.python.org/)
+
+
+![cat3](images/cat3.jfif)
 
