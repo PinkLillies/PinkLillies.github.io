@@ -31,6 +31,7 @@ I am _PinkLillies_
     - [Hack the box - Craft](HTB/Craft.md)
 
 1. HTML
+
     - [HTML - Basics](HTML/Basics.md)
 
 1. Python
@@ -42,6 +43,7 @@ I am _PinkLillies_
     - [Git - Basics](Git/Basics.md)
 
 1. MySQL
+
     - [MySQL - Basics](MySQL/Basics.md)
 
 
