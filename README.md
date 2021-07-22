@@ -1,8 +1,7 @@
 # Welcome to my GitHub page
 
 
-<div style="background-color:orange;">
-  <h3>This is a heading</h3>
+<div style="background-color:green;">
   <p>This is a paragraph.</p>
 </div>
 
