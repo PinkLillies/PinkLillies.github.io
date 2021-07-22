@@ -18,9 +18,6 @@ The goal of this page is to document what I learn.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 # Python
 
 Here’s an example of Python code without syntax highlighting:
@@ -32,6 +29,14 @@ Here’s an example of Python code without syntax highlighting:
 
 
 Use `git status` to list all new or modified files that haven't yet been committed.
+
+
+
+```markdown
+Syntax highlighted code block
+
+### header 3
+
 
 ### Header 3
 
