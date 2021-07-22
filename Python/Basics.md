@@ -88,5 +88,5 @@ class Bird:
 You can download Python [here](https://www.python.org/)
 
 
-![cat3](images/cat3.jfif)
+![cat3](https://pinklillies.github.io/images/cat3.jfif)
 
