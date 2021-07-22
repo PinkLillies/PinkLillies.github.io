@@ -40,3 +40,6 @@
 ```css
 <link ref="stylesheet" href="style.css">
 ```
+
+
+![cat2](images/cat2.jfif)
