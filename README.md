@@ -8,12 +8,7 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
 
 
 
-<style>
-    #container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    
+<style>  
     #container > div {
         background-color: green;
         font-size: 20px;
@@ -29,7 +24,7 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
      <div> some text </div>
      <div> some text </div>
      <div> some text </div>
-  </div>
+</div>
      
         
         
