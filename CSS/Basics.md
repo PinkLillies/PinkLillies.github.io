@@ -2,19 +2,19 @@
 
 ## Add color (directly next to h1)
 
-```
+```css
 <h1 style="color:blue;">
 ```
 ## Align text (directly next to h1)
 
-```
+```css
 <h1 style="text-align:center;">
 ```
 
 
 ## Or add `<style>` at the top of your file under `<head>` :
 
-```
+```css
 <head>
   <style>
     div {
@@ -37,6 +37,6 @@
 
 ## Or refer to a CSS file at the top of your file under `<head>` :
 
-```
+```css
 <link ref="stylesheet" href="style.css">
 ```
