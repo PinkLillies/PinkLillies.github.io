@@ -12,22 +12,17 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
     - [HTML - Basics](HTML/Basics.md)
 
 1. CSS
-
     - [CSS - Basics](CSS/Basics.md)
 
 1. Python
-
     - [Python - Basics](Python/Basics.md)
 
 1. Git
-
     - [Git - Basics](Git/Basics.md)
 
 1. Django
-
     - [Django - Basics](Django/Basics.md)
 
 1. MySQL
-
     - [MySQL - Basics](MySQL/Basics.md)
 
