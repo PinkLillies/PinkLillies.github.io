@@ -23,11 +23,6 @@ I am _PinkLillies_
 
 
 
-## Link to Google
-
-[Google](https://www.google.com)
-
-
 ## Table of Contents
 
 1. HTB
