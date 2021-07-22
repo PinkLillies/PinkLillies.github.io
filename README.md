@@ -22,11 +22,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Here’s an example of Python code without syntax highlighting:
 
-'''python
+```python
 def foo():
     if not bar:
         return True   
-'''
+```
 
 ## Git
 
