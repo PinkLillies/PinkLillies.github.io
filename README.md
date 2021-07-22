@@ -8,7 +8,6 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
 ## Links
 
 1. HTML
-
     - [HTML - Basics](HTML/Basics.md)
 
 1. CSS
