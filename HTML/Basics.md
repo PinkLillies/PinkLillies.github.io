@@ -40,8 +40,8 @@
 
 ```
 <form>
-  <input type = "text" placeholder = "Full Name" name ="name">
-  <input type = "submit">
+  <input type="text" placeholder="Full Name" name="name">
+  <input type="submit">
 </form>
 ```
 
