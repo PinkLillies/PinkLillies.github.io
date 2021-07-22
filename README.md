@@ -12,20 +12,17 @@ The goal of this page is:
 1. To document what I learn
 2. To help others
 
-
-
-
 ![Image of cat](https://pinklillies.github.io/images/cat.jfif)
 
 
-
-
+## Link to Google
 
 [Google](https://www.google.com)
 
 
+## Table of Contents
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Hack the box - Wall](HTB/Wall.md)
 
 
 
