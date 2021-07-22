@@ -5,7 +5,7 @@
 
 ## About me
 
-I am PinkLillies :bouquet:
+I am **PinkLillies** :bouquet:
 
 The goal of this page is:
 
