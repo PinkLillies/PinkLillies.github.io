@@ -54,11 +54,6 @@ I am _PinkLillies_
 
 
 
-```markdown
-Syntax highlighted code block
-```
-
-
 
 
 
