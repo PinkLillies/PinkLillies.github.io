@@ -36,3 +36,13 @@
 
 ```<a hfref="https://www.google.com">Click Here</a>```
 
+## Add a form
+
+```
+<form>
+  <input type = "text" placeholder = "Full Name" name ="name">
+  <input type = "submit">
+</form>
+```
+
+
