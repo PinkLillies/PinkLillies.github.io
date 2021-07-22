@@ -15,7 +15,7 @@
 
 ## Headings
 
-```
+```html
 <h1>Type my Heading 1 here</h1>
 <h2>Type my Heading 2 here</h1>
 <h3>Type my Heading 1 here</h1>
@@ -23,7 +23,7 @@
 
 ## Ordered list
 
-```
+```html
 <ol>
   <li>item 1</li>
   <li>item 2</li>
@@ -33,7 +33,7 @@
 
 ## Unordered list
 
-```
+```html
 <ul>
   <li>item 1</li>
   <li>item 2</li>
@@ -43,19 +43,19 @@
 
 ## Add an image
 
-```
+```html
 <img src="cat.jpg">
 ```
 
 ## Add a link
 
-```
+```html
 <a hfref="https://www.google.com">Click Here</a>
 ```
 
 ## Add a form
 
-```
+```html
 <form>
   <input type="text" placeholder="Full Name" name="name">
   <input type="submit">
