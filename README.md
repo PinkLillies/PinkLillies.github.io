@@ -13,6 +13,16 @@ The goal of this page is:
 2. To help others
 
 
+
+
+![Image of cat](https://pinklillies.github.io/cat.jfif)
+
+
+
+
+
+
+
 ## Python
 
 Print Hello, world!
