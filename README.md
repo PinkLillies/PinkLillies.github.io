@@ -1,6 +1,11 @@
 # Welcome to my GitHub page
 
-<div>Hello</div>
+
+<div style="color:blue">
+  <h3>This is a heading</h3>
+  <p>This is a paragraph.</p>
+</div>
+
 
 ## About me
 
