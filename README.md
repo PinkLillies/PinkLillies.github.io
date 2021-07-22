@@ -35,9 +35,14 @@ The goal of this page is:
 
     - [Python - Basics](Python/Basics.md)
 
-1. docs
-    - [Contributing](docs/CONTRIBUTING.md)
-    - [Contributing](https://pinklillies.github.io/docs/CONTRIBUTING.md)
+1. Git
+
+    - [Git - Basics](Git/Basics.md)
+
+1. MySQL
+    - [MySQL - Basics](MySQL/Basics.md)
+
+
 
 
 
