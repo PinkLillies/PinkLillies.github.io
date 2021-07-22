@@ -7,7 +7,7 @@
 
 I am **PinkLillies** :bouquet:
 
-The goal of this page is:
+**The goal of this page is:**
 
 1. To document what I learn
 2. To help others
@@ -53,10 +53,6 @@ The goal of this page is:
 ```markdown
 Syntax highlighted code block
 
-### header 3
-
-
-### Header 3
 
 - Bulleted
 - List
