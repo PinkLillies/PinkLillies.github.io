@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
 [Google](https://www.google.com)
 
