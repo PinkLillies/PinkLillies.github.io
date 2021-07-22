@@ -27,15 +27,18 @@ Here’s an example of Python code without syntax highlighting:
 
 ## Git
 
-Use `git status` to list all new or modified files that haven't yet been committed.
 
 Use `git clone <url>`
+
+Use `git status` to list all new or modified files that haven't yet been committed.
 
 Use `git add hello.html`
 
 Use `git commit -m "add a heading h2"`
 
-use Use `git push`
+Use `git push`
+
+Use `git pull`
 
 
 
