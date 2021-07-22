@@ -7,10 +7,6 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
 
 ## Div
 
-<div style="background-color:green;">
-  <p>This is a paragraph.</p>
-</div>
-
 
 <style>
     .div-1 {
@@ -23,6 +19,7 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
     
     .div-3 {
     	background-color: green;
+      text-align: center;
     }
 </style>
 
