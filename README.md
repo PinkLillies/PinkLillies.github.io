@@ -21,8 +21,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Python
+
+Here’s an example of Python code without syntax highlighting:
+
+'''python
+'''
+
+## Git
+
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
 ### Header 3
 
 - Bulleted
