@@ -27,3 +27,12 @@
   <li>item 3</li>
 </ul>
 ```
+
+## Add an image
+
+`<img src="cat.jpg">`
+
+## Add a link
+
+`<a hfref="https://www.google.com">Click Here</a>`
+
