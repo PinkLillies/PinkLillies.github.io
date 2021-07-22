@@ -8,15 +8,7 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
 
 
 
-<style>  
-    #container > div {
-        background-color: green;
-        font-size: 20px;
-        margin: 20px;
-        padding:20px;
-        width:200px;
-    }
- <style>
+
      
  <div id="container">
      <div> some text </div>
