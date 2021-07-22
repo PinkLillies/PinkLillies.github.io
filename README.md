@@ -25,11 +25,6 @@ I am _PinkLillies_
 
 ## Table of Contents
 
-1. HTB
-
-    - [Hack the box - Wall](HTB/Wall.md)
-    - [Hack the box - Craft](HTB/Craft.md)
-
 1. HTML
 
     - [HTML - Basics](HTML/Basics.md)
