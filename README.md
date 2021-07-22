@@ -51,10 +51,6 @@ I am _PinkLillies_
 
 
 
-`cd Documents`
-
-
-
 
 
 
