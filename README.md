@@ -1,8 +1,8 @@
-# Welcome to my GitHub page
+# Welcome to my GitHub page 👍
 
 ## About me
 
-I am _PinkLillies_ 👍. **The goal of this page is:** to document what I learn and to help others. 
+I am _PinkLillies_. **The goal of this page is:** to document what I learn and to help others. 
 
 ## Table of Contents
 
@@ -25,8 +25,6 @@ I am _PinkLillies_ 👍. **The goal of this page is:** to document what I learn 
 1. MySQL
 
     - [MySQL - Basics](MySQL/Basics.md)
-
-
 
 
 
