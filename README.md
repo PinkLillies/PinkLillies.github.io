@@ -2,10 +2,7 @@
 
 ## About me
 
-I am _PinkLillies_ 👍. **The goal of this page is:**
-1. To document what I learn
-2. To help others
-
+I am _PinkLillies_ 👍. **The goal of this page is:** to document what I learn and to help others. 
 
 ## Table of Contents
 
