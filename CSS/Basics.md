@@ -13,7 +13,7 @@
 
 ## Or refer to a CSS file 
 
-This needs to be placed under <head>
+This needs to be placed under `<head>`
   
 ```
 <link ref="stylesheet" href="style.css">
