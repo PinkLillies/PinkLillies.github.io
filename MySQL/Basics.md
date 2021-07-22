@@ -1,48 +1,49 @@
 # MySQL - Basics
 
-## Table
+## Table : candidates
 
-
-First Name | City | Age
------------- | -------------
-Sandy | Los Angeles | 27
-Ron | Miami | 34
+|id   | Name       | City         | Age |
+|-----|------------|--------------|-----|
+|1    |Sandy       | Los Angeles  | 27  |
+|2    |Ron         | Miami        | 34  |
+|3    |Brad        | Miami        | 28  | 
+|4    |Jennifer    | New York     | 28  | 
 
  ## SELECT 
 
 ```sql
-SELECT * FROM flights;
+SELECT * FROM candidates;
 ```
 
 ```sql
-SELECT origin, destination FROM flights;
+SELECT Name, City FROM candidates;
 ```
 
 ```sql
-SELECT * FROM flights WHERE id = 3;
+SELECT * FROM candidates WHERE id = 3;
 ```
 
 ```sql
-SELECT * FROM flights WHERE origin = "New York";
+SELECT * FROM candidates WHERE city = "Miami";
 ```
 
 ```sql
-SELECT * FROM flights WHERE duration > 500;
+SELECT * FROM candidates WHERE age > 30;
 ```
 
 ## UPDATE
 
 ```sql
-UPADTE flights
-  SET duration = 439
-  WHERE origin = "New York"
-  AND destination = "London";
+UPADTE candidates
+  SET age = 43
+  WHERE city = "New York"
+  AND name = "Bianca";
 ```
 
 ## DELETE
 
 ```sql
-DELETE FROM flights WHERE destination = "Tokyo";
+DELETE FROM candidates WHERE city = "Los Angeles";
 ```
 
 
