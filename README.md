@@ -18,7 +18,7 @@ I am _PinkLillies_. The goal of this page is to document what I learn and to hel
 
 
 |First Name | City       | Age|
-|-----------|------------|----|
+|-----------|:----------:|---:|
 |Sandy      |Los Angeles | 27 |
 |Ron        |Miami       | 34 |
 
