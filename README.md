@@ -22,7 +22,7 @@ The goal of this page is:
 
 ## Table of Contents
 
-1. Hack the box
+1. HTB
 
     - [Hack the box - Wall](HTB/Wall.md)
     - [Hack the box - Craft](HTB/Craft.md)
@@ -31,7 +31,7 @@ The goal of this page is:
 
     - [Python - Basics](Python/Basics.md)
 
-1. Contributing
+1. docs
     - [Contributing](docs/CONTRIBUTING.md)
 
 
