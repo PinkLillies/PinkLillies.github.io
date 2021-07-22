@@ -1,6 +1,6 @@
 # MySQL - Basics
 
-**Table : candidates
+**Table : candidates**
 
 |id   | Name       | City         | Age |
 |-----|------------|--------------|-----|
