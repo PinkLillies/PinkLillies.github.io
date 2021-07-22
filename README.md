@@ -23,9 +23,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Here’s an example of Python code without syntax highlighting:
 
 ```python
-def foo():
-    if not bar:
-        return True   
+print("Hello, world")
+```
+
+```python
+def square(x):
+    return x*x
+for i in range(10):
+    print(f"The square of {i} is {square(i)}")
 ```
 
 ## Git
