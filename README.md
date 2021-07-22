@@ -1,4 +1,4 @@
-## Welcome to my GitHub page
+# Welcome to my GitHub page
 
 [Google](https://www.google.com)
 
@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/PinkLillies/PinkLillies.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About me
+## About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
