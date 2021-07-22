@@ -16,15 +16,15 @@ I am PinkLillies :bouquet:
 The goal of this page is to document what I learn.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ## Python
 
-Here’s an example of Python code without syntax highlighting:
+Print Hello, world!
 
 ```python
-print("Hello, world")
+print("Hello, world!")
 ```
+
+Define a function square
 
 ```python
 def square(x):
