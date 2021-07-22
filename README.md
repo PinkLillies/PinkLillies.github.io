@@ -31,6 +31,9 @@ The goal of this page is:
 
     - [Python - Basics](Python/Basics.md)
 
+1. Contributing
+    - [Contributing](docs/CONTRIBUTING.md)
+
 
 
 ## Python
