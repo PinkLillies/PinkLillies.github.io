@@ -1,6 +1,6 @@
 # Welcome to my GitHub page
 
-[Google](https://www.google.com)
+
 
 
 ## About me
@@ -20,6 +20,12 @@ The goal of this page is:
 
 
 
+
+[Google](https://www.google.com)
+
+
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
 
