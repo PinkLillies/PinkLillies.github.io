@@ -69,13 +69,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## MySql
-
-First Name | City | Age
------------- | -------------
-Sandy | Los Angeles | 27
-Ron | Miami | 34
-
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PinkLillies/PinkLillies.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
