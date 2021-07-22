@@ -13,6 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am PinkLillies :bouquet:
 
+The goal of this page is to document what I learn.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
