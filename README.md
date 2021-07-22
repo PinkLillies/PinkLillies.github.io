@@ -5,6 +5,35 @@
 I am _PinkLillies_. The goal of this page is to document what I learn and to help others. 
 
 
+
+
+
+<style>
+    #container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    #container > div {
+        background-color: green;
+        font-size: 20px;
+        margin: 20px;
+        padding:20px;
+        width:200px;
+    }
+ <style>
+     
+ <div id="container">
+     <div> some text </div>
+     <div> some text </div>
+     <div> some text </div>
+     <div> some text </div>
+     <div> some text </div>
+  </div>
+     
+        
+        
+
 1. HTML
 
     - [HTML - Basics](HTML/Basics.md)
