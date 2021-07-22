@@ -30,11 +30,15 @@
 
 ## Add an image
 
-```<img src="cat.jpg">```
+```
+<img src="cat.jpg">
+```
 
 ## Add a link
 
-```<a hfref="https://www.google.com">Click Here</a>```
+```
+<a hfref="https://www.google.com">Click Here</a>
+```
 
 ## Add a form
 
