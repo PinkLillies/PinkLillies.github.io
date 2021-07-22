@@ -1,5 +1,18 @@
 # HTML - Basics
 
+## Head, title and body
+
+```
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <title>Hello world!</title>
+    <body>
+      Hello, world!
+    </body>
+  </html>
+```
+
 ## Headings
 
 ```
