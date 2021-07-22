@@ -41,10 +41,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 
-First Header | Second Header
+First Name | City | Age
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Sandy | Los Angeles | 27
+Ron | Miami | 34
 
 
 
