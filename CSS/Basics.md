@@ -1,11 +1,11 @@
 # CSS - Basics
 
-## Add color (directly next to h1)
+## Add color
 
 ```css
 <h1 style="color:blue;">
 ```
-## Align text (directly next to h1)
+## Align text
 
 ```css
 <h1 style="text-align:center;">
