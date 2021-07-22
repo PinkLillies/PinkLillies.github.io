@@ -23,6 +23,9 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
 
     - [Git - Basics](Git/Basics.md)
 
+1. Django
+  - [Django - Basics](Django/Basics.md)
+
 1. MySQL
 
     - [MySQL - Basics](MySQL/Basics.md)
