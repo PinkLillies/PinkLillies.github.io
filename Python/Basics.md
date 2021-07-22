@@ -69,6 +69,22 @@ for i in range(10):
 ```
 
 
+## Class
+
+```python
+class Bird:
+    count=0
+    def __init__(self, chat):
+        self.sound=chat
+        Bird.count +=1
+    def talk(self):
+        return self.sound
+ ```
+ 
+ 
+ 
+ 
+
 
 
 You can download Python [here](https://www.python.org/)
