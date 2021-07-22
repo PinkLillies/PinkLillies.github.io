@@ -5,12 +5,16 @@
 
 ## About me
 
-I am **PinkLillies** :bouquet:
+I am _PinkLillies_
+
 
 **The goal of this page is:**
 
 1. To document what I learn
 2. To help others
+
+
+:bouquet:
 
 
 
@@ -47,7 +51,7 @@ I am **PinkLillies** :bouquet:
 
 
 
-**Bold** and _Italic_ and `Code` text
+`cd Documents`
 
 
 
