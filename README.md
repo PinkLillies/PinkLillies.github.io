@@ -23,6 +23,9 @@ The goal of this page is:
 ## Table of Contents
 
 [Hack the box - Wall](HTB/Wall.md)
+[Hack the box - Wall](HTB/Craft.md)
+
+[Python - Basics](Python/Basics.md)
 
 
 
