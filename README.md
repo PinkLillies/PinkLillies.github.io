@@ -2,9 +2,8 @@
 
 ## About me
 
-I am _PinkLillies_. **The goal of this page is:** to document what I learn and to help others. 
+I am _PinkLillies_. The goal of this page is to document what I learn and to help others. 
 
-## Table of Contents
 
 1. HTML
 
@@ -25,15 +24,4 @@ I am _PinkLillies_. **The goal of this page is:** to document what I learn and t
 1. MySQL
 
     - [MySQL - Basics](MySQL/Basics.md)
-
-
-
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
-
-
-
-
-
-
-
 
