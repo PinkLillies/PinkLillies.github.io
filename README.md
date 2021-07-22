@@ -4,21 +4,6 @@
 
 I am _PinkLillies_. The goal of this page is to document what I learn and to help others. 
 
-
-
-
-
-
-     
- <div id="container">
-     <div> some text </div>
-     <div> some text </div>
-     <div> some text </div>
-     <div> some text </div>
-     <div> some text </div>
-</div>
-     
-        
         
 
 1. HTML
