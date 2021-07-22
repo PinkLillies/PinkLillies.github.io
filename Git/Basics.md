@@ -14,3 +14,13 @@ Use `git push`
 Use `git pull`
 
 
+
+Use `git branch`
+
+Use `git checkout -b style` to create a new branch named style
+
+Use `git checkout master`
+
+Use `git merge style` to merge style branch with the branch you are in now (ex:master)
+
+
