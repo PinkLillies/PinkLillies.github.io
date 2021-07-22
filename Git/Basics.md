@@ -24,4 +24,4 @@ Use `git checkout master`
 Use `git merge style` to merge style branch with the branch you are in now (ex:master)
 
 
-![cat4](images/cat4.jfif)
+![cat4](https://pinklillies.github.io/images/cat4.jfif)
