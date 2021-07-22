@@ -1,26 +1,10 @@
 # Welcome to my GitHub page
 
-
-
-
 ## About me
 
-I am _PinkLillies_
-
-
-**The goal of this page is:**
-
+I am _PinkLillies_ 👍. **The goal of this page is:**
 1. To document what I learn
 2. To help others
-
-
-👍
-
-
-
-![Image of cat](https://pinklillies.github.io/images/cat.jfif)
-
-
 
 
 ## Table of Contents
