@@ -47,6 +47,6 @@ DELETE FROM candidates WHERE city = "Los Angeles";
 ```
 
 
+![cat6](https://pinklillies.github.io/images/cat6.jfif)
 
 
-![cat6](images/cat6.jfif)
