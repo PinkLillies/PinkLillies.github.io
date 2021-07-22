@@ -1,6 +1,6 @@
 # MySQL - Basics
 
-## Table : candidates
+**Table : candidates
 
 |id   | Name       | City         | Age |
 |-----|------------|--------------|-----|
@@ -9,7 +9,7 @@
 |3    |Brad        | Miami        | 28  | 
 |4    |Jennifer    | New York     | 28  | 
 
- ## SELECT 
+## SELECT 
 
 ```sql
 SELECT * FROM candidates;
