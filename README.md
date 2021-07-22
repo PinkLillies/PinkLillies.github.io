@@ -7,7 +7,10 @@
 
 I am PinkLillies :bouquet:
 
-The goal of this page is to document what I learn.
+The goal of this page is:
+
+1. To document what I learn
+2. To help others
 
 
 ## Python
