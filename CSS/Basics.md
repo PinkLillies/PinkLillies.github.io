@@ -42,4 +42,4 @@
 ```
 
 
-![cat2](images/cat2.jfif)
+![cat2](https://pinklillies.github.io/images/cat2.jfif)
