@@ -34,6 +34,10 @@ I am _PinkLillies_
 
     - [HTML - Basics](HTML/Basics.md)
 
+1. CSS
+
+    - [CSS - Basics](CSS/Basics.md)
+
 1. Python
 
     - [Python - Basics](Python/Basics.md)
