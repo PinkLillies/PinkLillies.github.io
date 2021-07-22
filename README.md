@@ -12,7 +12,12 @@ The goal of this page is:
 1. To document what I learn
 2. To help others
 
+
+![Image of cat](/images/cat.jfif)
+
 ![Image of cat](https://pinklillies.github.io/images/cat.jfif)
+
+
 
 
 ## Link to Google
@@ -30,9 +35,11 @@ The goal of this page is:
 1. Python
 
     - [Python - Basics](Python/Basics.md)
+    - [Python - Basics](https://pinklillies.github.io/Python/Basics.md)
 
 1. docs
     - [Contributing](docs/CONTRIBUTING.md)
+    - [Contributing](https://pinklillies.github.io/docs/CONTRIBUTING.md)
 
 
 
