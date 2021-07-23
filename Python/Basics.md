@@ -32,8 +32,16 @@ names.sort()
 
 ## Tuple
 
+A tuple is a sequence of immutable values
+
+```python
+coordinate=(10.0,20.0)
+```
+
 
 ## Set
+
+No element appears twice in a set
 
 To create an empty set
 ```python
@@ -74,7 +82,9 @@ for i in range(100)
 
 ## Length
 
+```python
 len(s)
+```
 
 ## Define a function
 
