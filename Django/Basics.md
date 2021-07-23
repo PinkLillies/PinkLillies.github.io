@@ -1,5 +1,10 @@
 # Django - Basics
 
+You can install django with this command
+
+`pip3 install Django`
+
+
 ## Commands
 
 To create a new project:
