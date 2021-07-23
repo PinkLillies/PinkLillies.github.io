@@ -6,7 +6,6 @@
 
 ```
 sqlite3
-
 ```
 
 **Table : candidates**
