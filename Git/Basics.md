@@ -1,6 +1,6 @@
 # Git - Basics
 
-Use `git`
+Use `git` to check that git is installed
 
 Use `git clone <url>`
 
