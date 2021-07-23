@@ -222,8 +222,8 @@ so now we have updated the python code but we haven't update the DB yet, so we n
 
 
 
-  
-  
+ <br />
+ another one to remember:
 
 ```django
 python manage.py runserver
