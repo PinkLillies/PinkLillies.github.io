@@ -43,7 +43,7 @@ SELECT * FROM candidates WHERE age > 30;
 ## UPDATE
 
 ```sql
-UPADTE candidates
+UPDATE candidates
   SET age = 43
   WHERE city = "New York"
   AND name = "Bianca";
