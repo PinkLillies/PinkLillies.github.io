@@ -22,6 +22,8 @@ then go to the directory and open Visual Studio Code:
 `code .`
 
 
+## Run your website
+
 you can now run your server and you will land on the default page
 
 ```django
@@ -37,7 +39,9 @@ python manage.py startapp hello
 ```
 
 
+## Set up your new app properly
 
+### step 1:
 
 First thing you need to do after you create your first app is to edit settings.py in lecture3 folder
 
@@ -45,9 +49,9 @@ Under INSTALLED_APPS, add:
 
 `'hello',`
 
+### step 2:
 
-
-Then we need to edit views.py under hello folder:
+Then we need to edit **views.py** under **hello folder**:
 
 ```
 from django.http.response import HttpResponse
@@ -58,8 +62,45 @@ def index(request):
     return HttpResponse("Hello world")
 ```
 
+### step 3:
+
+Create a new file under **hello folder** called **urls.py** and add:
 
 
+```
+from django.urls import path
+
+from . import views
+
+urlpatterns = [
+    path("", views.index, name="index")
+]
+```
+
+### step 4:
+
+now go back to **lecture 3 folder** and open **urls.py** and edit:
+
+```
+from django.contrib import admin
+from django.urls import include, path
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('hello/', include("hello.urls"))
+]
+```
+
+
+
+
+
+
+
+
+
+
+# lecture 5 (move to another page)
 
 
 
