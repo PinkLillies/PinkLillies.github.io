@@ -62,6 +62,9 @@ def index(request):
     return HttpResponse("Hello world")
 ```
 
+_we defined a function called index that will return hello world
+
+
 ### step 3:
 
 Create a new file under **hello folder** called **urls.py** and add:
