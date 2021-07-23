@@ -17,7 +17,7 @@ then go to the directory and open Visual Studio Code:
 `code .`
 
 
-Every new project needs to have at least one app. To create a new app called hello:
+Every new project needs to have at least one app. To create a new app called flights:
 
 ```django
 python manage.py startapp flights
