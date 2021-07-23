@@ -43,7 +43,7 @@ python manage.py startapp hello
 
 ### step 1:
 
-First thing you need to do after you create your first app is to edit settings.py in lecture3 folder
+First thing you need to do after you create your first app is to edit **settings.py** in **lecture3 folder**
 
 Under INSTALLED_APPS, add:
 
