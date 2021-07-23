@@ -28,7 +28,7 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
 1. Fake Google Page
     - [Fake Google Search](Fake Google Page/GoogleSearch.html)
     - [Fake Google Images](Fake Google Page/GoogleImages.html)
-    - [Fake Google Advanced Search](Fake Google Page/Advanced_Search.html)
+    - [Fake Google Advanced Search](Fake Google Page/Advanced_search.html)
 
 
 
