@@ -57,6 +57,16 @@ DELETE FROM candidates WHERE city = "Los Angeles";
 
 ## JOIN
 
+```sql
+SELECT first, origin, destination
+FROM flights JOIN passengers
+ON passengers.flight_id = fligts.id;
+```
+
+The flight_id of the table passengers 
+and 
+the id of the flights table
+
 
 
 
