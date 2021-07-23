@@ -22,6 +22,15 @@ then go to the directory and open Visual Studio Code:
 `code .`
 
 
+you can now run your server and you will land on the default page
+
+```django
+python manage.py runserver
+```
+
+
+
+
 Every new project needs to have at least one app. To create a new app called flights:
 
 ```django
@@ -231,12 +240,7 @@ so now we have updated the python code but we haven't update the DB yet, so we n
 <br />
 <br />
     
- another one to remember:
-
-```django
-python manage.py runserver
-```
-
+ 
 
 
 
