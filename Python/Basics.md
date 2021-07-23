@@ -35,6 +35,19 @@ names.sort()
 
 ## Set
 
+To create an empty set
+```python
+s=set()
+```
+
+to add or remove to the set
+```python
+s.add(1)
+s.add(2)
+s.remove(2)
+print(s)
+```
+
 
 ## Dictionary
 
