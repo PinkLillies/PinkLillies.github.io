@@ -26,7 +26,7 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
     - [MySQL - Basics](MySQL/Basics.md)
 
 1. Fake Google Page
-    - [Fake Google Page](Fake Google Page/GoogleSearch.html)
+    - [Fake Google Search](Fake Google Page/GoogleSearch.html)
 
 
 
