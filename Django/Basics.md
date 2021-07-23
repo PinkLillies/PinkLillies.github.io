@@ -86,6 +86,14 @@ Now we need to make the migration:
 `python manage.py makemigrations`
 
 
+And now we need to apply the migration:
+
+`python manage.py migrate`
+
+
+
+
+
 
 
 
