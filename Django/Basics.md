@@ -107,6 +107,17 @@ then save this new flight:
 `f.save()`
 
 
+Notice we don't need to write in SQL, because django understands python so we write it in python
+
+if i want to query that flight:
+
+`Flight.objects.all()`
+
+
+Now exit the shell by type exit()
+
+
+
 
 
 
