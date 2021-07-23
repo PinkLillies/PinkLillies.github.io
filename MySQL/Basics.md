@@ -68,6 +68,15 @@ and
 the id of the flights table
 
 
+## CREATE INDEX
+
+```sql
+CREATE INDEX name_index ON passengers (last);
+```
+
+
+create an index on the table passengers
+
 
 
 
