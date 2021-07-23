@@ -1,5 +1,14 @@
 # MySQL - Basics
 
+
+
+**run cmd 
+
+```
+sqlite3
+
+```
+
 **Table : candidates**
 
 |id   | Name       | City         | Age |
