@@ -2,7 +2,7 @@
 
 
 
-**run cmd 
+## run cmd 
 
 ```
 sqlite3
@@ -54,6 +54,14 @@ UPADTE candidates
 ```sql
 DELETE FROM candidates WHERE city = "Los Angeles";
 ```
+
+## JOIN
+
+
+
+
+
+
 
 
 ![cat6](https://pinklillies.github.io/images/cat6.jfif)
