@@ -40,6 +40,25 @@ urlpatterns=[
   ]
 ```
 
+_This just tell django, that whenever someones visit flights/, i want to direct them to the flight url_
+
+Now we need to create the url:
+For that we need to edit urls.py in flights folder. Except this file is not created automatically so we need to create a file caled urls.py
+
+Then add the following code to your new file:
+
+```django
+from django.urls import path
+
+from . import views
+
+urlpatterns=[
+  
+  ]
+```
+
+
+
 
 
 
