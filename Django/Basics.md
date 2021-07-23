@@ -10,6 +10,10 @@ django-admin startproject PROJECT_NAME
 python manage.py runserver
 ```
 
+1 project can have several apps inside
+
+To create a new app called hello:
+
 ```django
 python manage.py startapp hello
 ```
