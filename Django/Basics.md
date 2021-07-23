@@ -62,7 +62,6 @@ Now go to models.py under flights folder and add following:
 
 ```django
 from django.db import models
-
 # Create your models here.
 class Flight(models.Model):
     origin = models.CharField(max_length=64)
@@ -72,6 +71,14 @@ class Flight(models.Model):
 
 
 every model is going to be a python class
+
+
+Now we need to make the migration:
+
+
+`python manage.py makemigrations`
+
+
 
 
 
