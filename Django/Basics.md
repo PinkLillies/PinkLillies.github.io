@@ -27,7 +27,7 @@ First thing you need to do after you create your first app is to edit settings.p
 
 Under INSTALLED_APPS, add:
 
-`'flights'`
+`'flights',`
 
 
   
