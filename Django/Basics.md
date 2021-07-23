@@ -91,6 +91,17 @@ And now we need to apply the migration:
 `python manage.py migrate`
 
 
+to enter the shell:
+`python manage.py shell`
+
+then type:
+
+`from flights.models import Flight`
+
+then create a new flight:
+
+`f=Flight(origin="New York", destination="London", duration=415)`
+
 
 
 
