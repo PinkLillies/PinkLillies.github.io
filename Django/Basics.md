@@ -9,6 +9,14 @@ django-admin startproject PROJECT_NAME
 ```
 
 _(note: you need to be in the folder that contains django-admin.exe)_
+
+then go to the directory and open Visual Studio Code:
+
+`cd PROJECT_NAME`
+
+`code .`
+
+
   
   
 
