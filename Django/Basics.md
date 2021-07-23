@@ -131,6 +131,56 @@ class Flight(models.Model):
 ```
 
 
+so now go back to the shell
+
+`python manage.py shell`
+
+then type:
+
+`from flights.models import Flight`
+
+then type:
+
+`flights = Flight.objects.all()`
+
+then 
+
+`flights`
+
+now we got more relevant info about the flight in question. easier tp read
+
+
+now we can set up :
+
+`flight = flights.first()`
+
+then 
+
+`flight`
+
+then
+
+`flight.id`
+
+then
+`flight.destination`
+
+then
+`flight.origin`
+
+then 
+`flight.duration`
+
+to access info i need
+
+now if i want to delete that flight
+`flight.delete()`
+
+now exit the shell
+
+
+
+
 
 
 
