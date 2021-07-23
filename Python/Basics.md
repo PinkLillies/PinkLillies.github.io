@@ -81,6 +81,15 @@ class Bird:
         return self.sound
  ```
  
+ ## Create an instance of the class: bird
+ 
+ ```python
+ Bird instance polly
+ from Bird import *
+ polly = Bird('Squawk, squawk!')
+ print(polly.count)
+ print(polly.talk())
+ ```
  
  
  
