@@ -102,6 +102,12 @@ then create a new flight:
 
 `f=Flight(origin="New York", destination="London", duration=415)`
 
+then save this new flight:
+
+`f.save()`
+
+
+
 
 
 
