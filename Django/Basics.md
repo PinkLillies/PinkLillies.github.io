@@ -110,7 +110,23 @@ but this time go to 127.0.0.1/hello
 
 
 
+## Render
 
+
+We don't want to have to include the whole html file into these brackets:
+
+```python
+def index(request):
+    return HttpResponse("Hello world")
+```
+    
+    
+ so we can use render to call a template
+ 
+```python
+def index(request):
+    return render(request, "<path to template>")
+```
 
 
 
