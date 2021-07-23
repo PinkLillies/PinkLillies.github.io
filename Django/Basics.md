@@ -31,14 +31,21 @@ Under INSTALLED_APPS, add:
 
 Then you need edit urls.py in airline folder with the following:
 
+
 ```django
 from django.contrib import admin
-from django.urls import include,path
-urlpatterns=[
-  path('admin/', admin.site.urls),
-  path("flights/", include("flights.urls"))
-  ]
+from django.urls import include, path
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path("flights/", include("flights.urls"))
+]
 ```
+
+
+
+
+
 
 _This just tell django, that whenever someones visit flights/, i want to direct them to the flight url_
 
