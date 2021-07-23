@@ -5,14 +5,14 @@
 To create a new project:
 
 ```django
-django-admin startproject PROJECT_NAME
+django-admin startproject airline
 ```
 
 _(note: you need to be in the folder that contains django-admin.exe)_
 
 then go to the directory and open Visual Studio Code:
 
-`cd PROJECT_NAME`
+`cd airline`
 
 `code .`
 
@@ -20,8 +20,14 @@ then go to the directory and open Visual Studio Code:
 Every new project needs to have at least one app. To create a new app called hello:
 
 ```django
-python manage.py startapp hello
+python manage.py startapp flights
 ```
+
+First thing you need to do after you create your first app is to edit settings.py in airline folder
+
+Under INSTALLED_APPS, add:
+
+`'flights'`
 
 
   
