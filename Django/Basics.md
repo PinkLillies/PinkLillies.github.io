@@ -187,7 +187,7 @@ from django.db import models
 from django.db.models.fields import CharField
 
 # Create your models here.
-class Airport(models.Model)
+class Airport(models.Model):
     code = models.CharField(max_length=3)
     city = models.CharField(max_length=64)
 
@@ -204,6 +204,13 @@ class Flight(models.Model):
     def __str__(self):
         return f"{self.id}:{self.origin} to {self.destination}"
 ```
+
+
+so now we have updated the python code but we haven't update the DB yet, so we need :
+
+`python manage.py makemigrations`
+`python manage.py migrate`
+
 
 
 
