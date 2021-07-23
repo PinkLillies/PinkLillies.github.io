@@ -81,7 +81,7 @@ class Bird:
         return self.sound
  ```
  
- ## Create an instance of the class
+## Create an instance of the class
  
  ```python
  Bird instance polly
