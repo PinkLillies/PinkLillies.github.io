@@ -58,6 +58,22 @@ urlpatterns=[
 ```
 
 
+Now go to models.py under flights folder and add following:
+
+```django
+from django.db import models
+
+# Create your models here.
+class Flight(models.Model):
+    origin = models.CharField(max_length=64)
+    destination = models.CharField(max_length=64)
+    duration = models.IntegerField()
+```
+
+
+every model is going to be a python class
+
+
 
 
 
