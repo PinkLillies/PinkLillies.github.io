@@ -79,6 +79,12 @@ create an index on the table passengers
 
 
 
+## Add a comment
+
+```sql
+"--"
+```
+
 
 
 
