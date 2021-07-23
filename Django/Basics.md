@@ -2,9 +2,13 @@
 
 ## Commands
 
+To create a new project:
+
 ```django
 django-admin startproject PROJECT_NAME
 ```
+
+_note: you need to be in the folder that contains django-admin.exe_
 
 ```django
 python manage.py runserver
