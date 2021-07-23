@@ -5,19 +5,19 @@ You can install django with this command
 `pip3 install Django`
 
 
-## Commands
+## Create a new project
 
 To create a new project:
 
 ```django
-django-admin startproject airline
+django-admin startproject lecture3
 ```
 
 _(note: you need to be in the folder that contains django-admin.exe)_
 
 then go to the directory and open Visual Studio Code:
 
-`cd airline`
+`cd lecture3`
 
 `code .`
 
@@ -28,22 +28,43 @@ you can now run your server and you will land on the default page
 python manage.py runserver
 ```
 
-
-
+## Create a new app
 
 Every new project needs to have at least one app. To create a new app called flights:
 
 ```django
-python manage.py startapp flights
+python manage.py startapp hello
 ```
 
-First thing you need to do after you create your first app is to edit settings.py in airline folder
+
+
+
+First thing you need to do after you create your first app is to edit settings.py in lecture3 folder
 
 Under INSTALLED_APPS, add:
 
-`'flights',`
+`'hello',`
 
-Then you need edit urls.py in airline folder with the following:
+
+
+Then we need to edit views.py under hello folder:
+
+```
+from django.http.response import HttpResponse
+from django.shortcuts import render
+
+# Create your views here.
+def index(request):
+    return HttpResponse("Hello world")
+```
+
+
+
+
+
+
+
+Then you need edit urls.py in lecture3 folder with the following:
 
 
 ```django
