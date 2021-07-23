@@ -116,6 +116,22 @@ if i want to query that flight:
 
 Now exit the shell by type exit()
 
+but the output from the command before isn't very explicit. so we can udpate the model.py file as per below:
+
+```django
+from django.db import models
+# Create your models here.
+class Flight(models.Model):
+    origin = models.CharField(max_length=64)
+    destination = models.CharField(max_length=64)
+    duration = models.IntegerField()
+    
+    def __str__(self):
+        return f"{self.id}:{self.origin} to {self.destination}"
+```
+
+
+
 
 
 
