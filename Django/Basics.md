@@ -93,8 +93,16 @@ urlpatterns = [
 
 
 
+So now if you go back to your website:
 
+```django
+python manage.py runserver
+```
 
+but this time go to 127.0.0.1/hello
+
+ and you should see hello world!
+ 
 
 
 
