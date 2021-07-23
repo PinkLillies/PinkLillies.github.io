@@ -59,6 +59,10 @@ for i in range(100)
     print(i)
 ```
 
+## Length
+
+len(s)
+
 ## Define a function
 
 ```python
