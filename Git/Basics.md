@@ -2,15 +2,19 @@
 
 Use `git` to check that git is installed
 
-Use `git clone <url>`
+Use `git clone <url>` to download the repository to your computer.
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
-Use `git add hello.html`
+Use `git add hello.html` to let Git know it should be keeping track of the new file hello
 
-Use `git commit -m "add a heading h2"`
+Use `git commit -m "add a heading h2"` to commit your change
 
-Use `git push`
+Use `git push` to push the updated file to your git hub online repository
+
+
+
+
 
 Use `git pull`
 
