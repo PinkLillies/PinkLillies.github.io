@@ -18,7 +18,7 @@ Use `git branch` to see which branch you're currently working on.
 
 Use `git checkout -b <new branch name>` to create a new branch name.
 
-Use `git checkout <branch name>` to switch between branches
+Use `git checkout master` to switch to master
 
 Use `git merge style` to merge style branch with the branch you are in now (ex:master).
 
