@@ -150,6 +150,12 @@ def index(request):
  inside of folder static, create a new folder called : newyear
  inside of which, create a new file called : styles.css
  
+ but in your htnl file don't forget to add at the top:
+ 
+ {% load static %}
+ 
+ 
+ 
  
  
  
