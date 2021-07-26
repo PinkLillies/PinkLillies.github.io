@@ -30,6 +30,8 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
     - [Fake Google Images](Fake Google Page/GoogleImages.html)
     - [Fake Google Advanced Search](Fake Google Page/Advanced_search.html)
 
+1. Fake Wiki Page
+    -[Fake Ariana Page]
 
 
 
