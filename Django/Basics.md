@@ -133,6 +133,7 @@ def index(request):
 
 # django syntax for IF
 
+```
 <body>
         {% if newyear %}
         <h1>YES</h1>
@@ -140,6 +141,7 @@ def index(request):
         <h1>NO</h1>
         {% endif %}
 </body>
+```
     
  
  
@@ -152,7 +154,9 @@ def index(request):
  
  but in your htnl file don't forget to add at the top:
  
+ ```
  {% load static %}
+ ```
  
  
  
