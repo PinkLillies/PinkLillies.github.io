@@ -1,0 +1,55 @@
+
+#top {
+  margin-left: 190px;
+}
+
+#topright {
+  margin-left: 1300px;
+  padding:5px;
+}
+
+#bottomright {
+  margin-left: 1300px;
+}
+
+#bottomleft {
+}
+
+/* The sidebar menu */
+#sidenav {
+    height:100%;
+    width: 160px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    color:black;
+    border-style: inset;
+    padding:10px;
+    background-color: rgb(248, 244, 244);
+  }
+
+  /* The main part */
+  #main {
+    margin-left: 190px; /* Same as the width of the sidebar */
+    height:1000px;
+    border-style: inset;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+  /* The navigation menu links */
+  #sidenava {
+    padding: 6px 8px 6px 16px;
+    color: grey;
+    display: block;
+  }
+  
+  
+#contents {
+  background-color: ghostwhite;
+  width:300px;
+  padding:10px;
+  }
