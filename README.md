@@ -31,7 +31,7 @@ I am PinkLillies. I am trying to get better at programming and I decided to docu
     - [Fake Google Advanced Search](Fake Google Page/Advanced_search.html)
 
 1. Fake Wiki Page
-    -[Fake Ariana Page]
+    -[Fake Ariana Page](Fake Wiki Page/index.html)
 
 
 
