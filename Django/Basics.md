@@ -131,9 +131,10 @@ def index(request):
 
 
 
-# django syntax for IF
+## django syntax for IF
 
-```
+
+```django
 <body>
         {% if newyear %}
         <h1>YES</h1>
