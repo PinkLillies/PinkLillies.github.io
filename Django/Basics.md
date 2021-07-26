@@ -131,7 +131,7 @@ def index(request):
 
 
 
-## django syntax for IF
+## django syntax for IF, or even for task in tasks...
 
 
 ```django
