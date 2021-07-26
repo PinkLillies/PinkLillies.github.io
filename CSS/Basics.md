@@ -35,7 +35,7 @@
 
 
 
-## Or refer to a CSS file at the top of your file under `<head>` :
+## Or refer to a CSS file at the top of your file under `<title>` :
 
 ```css
 <link rel="stylesheet" href="style.css">
