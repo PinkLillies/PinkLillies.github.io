@@ -42,4 +42,19 @@
 ```
 
 
+
+if in html file:
+
+<div id=main> hey world </div>
+
+then in css file:
+
+#main {
+    background-color: blue;
+    text-align: center; 
+    color:white
+}
+
+
+
 ![cat2](https://pinklillies.github.io/images/cat2.jfif)
