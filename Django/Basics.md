@@ -134,7 +134,7 @@ def index(request):
 ## django syntax for IF, or even for task in tasks...
 
 
-```django
+```python
 <body>
         {% if newyear %}
         <h1>YES</h1>
