@@ -65,7 +65,29 @@
 
 ## Add a table
 
+```html
 <table>
+    <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>Will</td>
+        <td>Smith</td>
+        <td>55</td>
+    </tr>
+    <tr>
+        <td>Eva</td>
+        <td>Longoria</td>
+        <td>44</td>
+    </tr>
+<table>
+ ```
+ 
+ Output is:
+ 
+ <table>
     <tr>
         <th>Firstname</th>
         <th>Lastname</th>
