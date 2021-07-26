@@ -141,7 +141,18 @@ def index(request):
         {% endif %}
 </body>
     
-    
+ 
+ 
+ CSS doesn't change wheter it's new year or not it's a static file
+ django puts static files in:
+ 
+ under you app folder (ex: newyear folder), create a new folder called : static
+ inside of folder static, create a new folder called : newyear
+ inside of which, create a new file called : styles.css
+ 
+ 
+ 
+ 
 
 # lecture 5 (move to another page)
 
