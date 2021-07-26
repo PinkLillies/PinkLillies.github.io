@@ -50,7 +50,7 @@
 ## Add a link
 
 ```html
-<a hfref="https://www.google.com">Click Here</a>
+<a href="https://www.google.com">Click Here</a>
 ```
 
 ## Add a form
