@@ -130,6 +130,19 @@ def index(request):
 
 
 
+
+# django syntax for IF
+
+<body>
+        {% if newyear %}
+        <h1>YES</h1>
+        {% else %}
+        <h1>NO</h1>
+        {% endif %}
+</body>
+    
+    
+
 # lecture 5 (move to another page)
 
 
