@@ -131,17 +131,12 @@ def index(request):
 
 
 
-## django syntax for IF, or even for task in tasks...
+## django syntax for : IF and FOR
 
-
-```python
-<body>
+```
         {% if newyear %}
-        <h1>YES</h1>
         {% else %}
-        <h1>NO</h1>
         {% endif %}
-</body>
 ```
     
  
