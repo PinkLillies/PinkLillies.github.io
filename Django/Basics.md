@@ -149,6 +149,16 @@ def index(request):
  
  
  
+ ## use a layout so that you don't have to copy paste the whole html every time you create a new html file
+ 
+ so instead, under templates / tasks , create a layout.html
+ 
+ under body, 
+ 
+ ```
+ {% block %}
+ ```
+ 
 
 # lecture 5 (move to another page)
 
