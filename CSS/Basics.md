@@ -38,7 +38,7 @@
 ## Or refer to a CSS file at the top of your file under `<head>` :
 
 ```css
-<link ref="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 ```
 
 
