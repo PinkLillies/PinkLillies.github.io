@@ -63,6 +63,25 @@
 ```
 
 
+## Add a table
+
+<table>
+    <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>Will</td>
+        <td>Smith</td>
+        <td>55</td>
+    </tr>
+    <tr>
+        <td>Eva</td>
+        <td>Longoria</td>
+        <td>44</td>
+    </tr>
+<table>
 
 
 ![cat1](https://pinklillies.github.io/images/cat1.jfif)
